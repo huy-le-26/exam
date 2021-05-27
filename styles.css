@@ -1,0 +1,20 @@
+.luckyNumber{
+    text-align: center;
+    width: 100%;
+    color: blue;
+  
+}
+.main{
+color: coral;
+}
+.Text{
+  
+    margin: 20px 20px;
+}
+.button{
+    border: 1px solid black;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: chartreuse;
+}
